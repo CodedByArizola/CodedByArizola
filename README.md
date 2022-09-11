@@ -1,9 +1,9 @@
 ### Hello World 👋
 #
-I am a full stack developer with experience in various programming languages. I currently own and actively develop on <a href='https://www.productionrp.net/'>ProductionRP</a>, a serious roleplay server on FiveM.
+I am a full stack developer with experience in various programming languages. I currently own and actively develop on <a href='https://www.productionrp.net/'>ProductionRP</a>, a serious roleplay server on <a href="https://fivem.net">FiveM</a>.
 
 * 🎂 My birthday is August 17
-* 📅 I started my freelance development career on November 2019.
+* 📅 I started my freelance development career on November 2019
 
 #
 ### Familiar Languages & Tools:
