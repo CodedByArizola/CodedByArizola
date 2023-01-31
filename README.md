@@ -1,5 +1,4 @@
 ### Hello World 👋
-#
 I am a full stack developer with experience in various programming languages. I currently own and actively develop on <a href='https://www.productionrp.net/'>ProductionRP</a>, a serious roleplay server on <a href="https://fivem.net">FiveM</a>.
 
 * 🎂 My birthday is August 17
@@ -7,7 +6,6 @@ I am a full stack developer with experience in various programming languages. I 
 
 #
 ### Familiar Languages & Tools:
-<br>
 <p align="center">
     <a href="https://code.visualstudio.com/"><img width="36" alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" draggable="false" /></a>
     &nbsp;
@@ -30,4 +28,5 @@ I am a full stack developer with experience in various programming languages. I 
     <a href="https://www.gitlab.com/"><img width="36" alt="GitLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" draggable="false" /></a>
 </p>
 
+#
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GhostDaGhost&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
