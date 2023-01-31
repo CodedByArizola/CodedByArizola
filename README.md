@@ -9,25 +9,25 @@ I am a full stack developer with experience in various programming languages. I 
 ### Familiar Languages & Tools:
 <br>
 <p align="center">
-    <img width="36" alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" draggable="false" />
+    <a href="https://code.visualstudio.com/"><img width="36" alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" draggable="false" /></a>
     &nbsp;
-    <img width="36" alt="LUA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" draggable="false" />
+    <a href="https://lua.org/"><img width="36" alt="LUA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" draggable="false" /></a>
     &nbsp;
-    <img width="36" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" draggable="false" />
+    <a href="https://html.com/"><img width="36" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" draggable="false" /></a>
     &nbsp;
-    <img width="36" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" draggable="false" />
+    <a href="https://www.css3.com/"><img width="36" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" draggable="false" /></a>
     &nbsp;
-    <img width="36" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" draggable="false" />
+    <a href="https://www.javascript.com/"><img width="36" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" draggable="false" /></a>
     &nbsp;
-    <img width="36" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" draggable="false" />
+    <a href="https://www.typescriptlang.org/"><img width="36" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" draggable="false" /></a>
     &nbsp;
-    <img width="36" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" draggable="false" />
+    <a href="https://www.reactjs.org/"><img width="36" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" draggable="false" /></a>
     &nbsp;
-    <img width="36" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" draggable="false" />
+    <a href="https://www.mysql.com/"><img width="36" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" draggable="false" /></a>
     &nbsp;
-    <img width="36" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" draggable="false" />
+    <a href="https://www.github.com/"><img width="36" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" draggable="false" /></a>
     &nbsp;
-    <img width="36" alt="GitLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" draggable="false" />
+    <a href="https://www.gitlab.com/"><img width="36" alt="GitLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" draggable="false" /></a>
 </p>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghostdaghost&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GhostDaGhost&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
