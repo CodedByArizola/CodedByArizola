@@ -27,3 +27,5 @@ I am a full stack developer with experience in various programming languages. I 
     &nbsp;
     <a href="https://www.gitlab.com/"><img width="36" alt="GitLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" draggable="false" /></a>
 </p>
+
+[![Ghost's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghostdaghost&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
