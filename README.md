@@ -35,10 +35,10 @@ Guy in his 20s just living in a world where technology constantly advances. I am
 
 #
 ### Projects:
-I've been involved in the creation and maintaing of various custom frameworks in roleplay servers most commonly written in <a href="https://lua.org/">Lua</a> on a modification off of Grand Theft Auto V named <a href="https://fivem.net">FiveM</a>.
+I've been involved in the creation and maintaing of various custom frameworks in roleplay servers most commonly written in <a href="https://lua.org/">Lua</a> on a modification off of <a href="https://www.rockstargames.com/gta-v">Grand Theft Auto V</a> named <a href="https://fivem.net">FiveM</a>.
 
 * State of Emergency RP (2019 - 2021)
-* New Dawn Gaming RP (2020 - 2021)
+* New Dawn Gaming (2020 - 2021)
 * <a href='https://www.productionrp.net/'>ProductionRP</a> (2021 - Current)
 
 [![Ghost's Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GhostDaGhost&layout=compact&count_private=true&text_color=fff&title_color=fff&border_color=fff&bg_color=1b1b1c)](https://github.com/anuraghazra/github-readme-stats)
