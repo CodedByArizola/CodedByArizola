@@ -1,8 +1,9 @@
 ### Hello World 👋
-I am a full stack developer with experience in various programming languages. I currently own and actively develop on <a href='https://www.productionrp.net/'>ProductionRP</a>, a serious roleplay server on <a href="https://fivem.net">FiveM</a>.
+Guy in his 20s just living in a world where technology constantly advances. I am a full stack developer with experience in various programming languages. I currently own and actively develop on <a href='https://www.productionrp.net/'>ProductionRP</a>, a serious roleplay server on <a href="https://fivem.net">FiveM</a>.
 
 * 🎂 My birthday is August 17
 * 📅 I started my freelance development career on November 2019
+* 📧 [Email me if you need to contact me](mailto:ghostdaghostt@gmail.com)
 
 #
 ### Familiar Languages & Tools:
@@ -21,12 +22,24 @@ I am a full stack developer with experience in various programming languages. I 
     &nbsp;
     <a href="https://www.reactjs.org/"><img width="36" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" draggable="false" /></a>
     &nbsp;
+    <a href="https://jquery.com/"><img width="36" alt="jQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" draggable="false" /></a>
+    &nbsp;
     <a href="https://www.mysql.com/"><img width="36" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" draggable="false" /></a>
     &nbsp;
     <a href="https://www.github.com/"><img width="36" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" draggable="false" /></a>
     &nbsp;
     <a href="https://www.gitlab.com/"><img width="36" alt="GitLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" draggable="false" /></a>
+    &nbsp;
+    <a href="https://www.zmodeler3.com/"><img height="36" width="36" alt="zModeler 3" src="https://i.imgur.com/lqySBYp.png" draggable="false" /></a>
 </p>
+
+#
+### Projects:
+I've been involved in the creation and maintaing of various custom frameworks in roleplay servers most commonly written in <a href="https://lua.org/">Lua</a> on a modification off of Grand Theft Auto V named <a href="https://fivem.net">FiveM</a>.
+
+* State of Emergency RP (2019 - 2021)
+* New Dawn Gaming RP (2020 - 2021)
+* <a href='https://www.productionrp.net/'>ProductionRP</a> (2021 - Current)
 
 [![Ghost's Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GhostDaGhost&layout=compact&count_private=true&text_color=fff&title_color=fff&border_color=fff&bg_color=1b1b1c)](https://github.com/anuraghazra/github-readme-stats)
 
