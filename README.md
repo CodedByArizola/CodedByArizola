@@ -28,8 +28,8 @@ I am a full stack developer with experience in various programming languages. I 
     <a href="https://www.gitlab.com/"><img width="36" alt="GitLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" draggable="false" /></a>
 </p>
 
-[![Ghost's Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GhostDaGhost&layout=compact&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Ghost's Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GhostDaGhost&layout=compact&count_private=true&text_color=fff&title_color=fff&border_color=fff&bg_color=1b1b1c)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GhostDaGhost&theme=dark&stroke=a80505&ring=a80505)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GhostDaGhost&theme=dark&stroke=a80505&ring=a80505&background=1b1b1c)](https://git.io/streak-stats)
 
-[![Ghost's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghostdaghost&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Ghost's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghostdaghost&count_private=true&show_icons=true&text_color=fff&title_color=fff&border_color=fff&bg_color=1b1b1c&icon_color=a80505)](https://github.com/anuraghazra/github-readme-stats)
