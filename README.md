@@ -7,7 +7,7 @@ As a developer, I have experience in several languages and tools. For database s
 
 As I used PHP, I familiarized myself with object oriented programming, laravel framework, writing and using APIs and using the blade templating engine (laravel front end bits).
 
-I speak, write and understand English expertly as my first language as well as capable of understanding and speaking Spanish.
+I speak, write and understand English expertly as my first language as well as being capable of understanding and speaking Spanish.
 
 * 🎂 My birthday is August 17
 * 📅 I started my freelance development career on November 2019
