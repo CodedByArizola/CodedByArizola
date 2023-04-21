@@ -1,6 +1,14 @@
 ### 👋 Hello World
 I'm Alex! A guy in his 20s just living in a world where technology constantly evolves. I am a full stack developer with experience in various programming languages. I currently own and actively develop on <a href='https://www.productionrp.net/'>ProductionRP</a>, a serious roleplay server on <a href="https://fivem.net">FiveM</a>.
 
+I hold experience with issue tracking and task management. I've implemented task tracking processes using tools like trello and github issue tracking. Keeping track of issues and ensuring that the correct department or developer is assigned to the relevant issues.
+
+As a developer, I have experience in several languages and tools. For database systems, I utilize the 3NF approach, indexes, capable of optimizing queries using DBA tools, and able to maintain database security through the use of permissions and access control (like IP whitelisting).
+
+As I used PHP, I familiarized myself with object oriented programming, laravel framework, writing and using APIs and using the blade templating engine (laravel front end bits).
+
+I speak, write and understand English expertly as my first language as well as capable of understanding and speaking Spanish.
+
 * 🎂 My birthday is August 17
 * 📅 I started my freelance development career on November 2019
 * 🧠 I'm currently learning Vue and React
