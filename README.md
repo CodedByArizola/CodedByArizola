@@ -114,7 +114,7 @@ I speak, write and understand English expertly as my first language as well as b
 I've been involved in the creation and maintaing of various custom frameworks in roleplay servers most commonly written in <a href="https://lua.org/">Lua</a> on a modification off of <a href="https://www.rockstargames.com/gta-v">Grand Theft Auto V</a> named <a href="https://fivem.net">FiveM</a>.
 
 * State of Emergency RP (2019 - 2021)
-* New Dawn Gaming (2020 - 2021)
+* New Dawn Gaming (2020 - 2020)
 * <a href='https://www.productionrp.net/'>ProductionRP</a> (2021 - Current)
 
 #
