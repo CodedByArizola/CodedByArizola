@@ -1,17 +1,17 @@
 ### 👋 Hello World
 I'm Alex! A guy in his 20s just living in a world where technology constantly evolves. I am a full stack developer with experience in various programming languages. I currently own and actively develop on <a href='https://www.productionrp.net/'>ProductionRP</a>, a serious roleplay server on <a href="https://fivem.net">FiveM</a>.
 
-I hold experience with issue tracking and task management. I've implemented task tracking processes using tools like trello and github issue tracking. Keeping track of issues and ensuring that the correct department or developer is assigned to the relevant issues.
+I hold experience with issue tracking and task management. I've implemented task tracking processes using tools like <a href='https://trello.com/'>Trello</a> and <a href='https://github.com/'>GitHub</a>/<a href='https://gitlab.com/'>GitLab</a> issue tracking. Keeping track of issues and ensuring that the correct department or developer is assigned to the relevant issues.
 
-As a developer, I have experience in several languages and tools. For database systems, I utilize the 3NF approach, indexes, capable of optimizing queries using DBA tools, and able to maintain database security through the use of permissions and access control (like IP whitelisting).
+As a developer, I have experience in several languages and tools. For <a href='https://mysql.com/'>database systems</a>, I utilize the 3NF approach, indexes, capable of optimizing queries using DBA tools, and able to maintain database security through the use of permissions and access control (like IP whitelisting).
 
-As I used PHP, I familiarized myself with object oriented programming, laravel framework, writing and using APIs and using the blade templating engine (laravel front end bits).
+As I used <a href='https://php.net/'>PHP</a>, I familiarized myself with object oriented programming, <a href='https://laravel.com/'>Laravel framework</a>, writing and using APIs and using the <a href='https://laravel.com/docs/10.x/blade#introduction'>Blade templating engine</a> (Laravel front end bits).
 
 I speak, write and understand English expertly as my first language as well as being capable of understanding and speaking Spanish.
 
 * 🎂 My birthday is August 17
 * 📅 I started my freelance development career on November 2019
-* 🧠 I'm currently learning Vue and React
+* 🧠 I'm currently learning <a href='https://vuejs.org/'>Vue</a> and <a href='https://reactjs.org/'>React</a>
 * 📧 [Email me if you need to contact me](mailto:ghostdaghostt@gmail.com)
 
 #
