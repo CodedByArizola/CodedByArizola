@@ -84,6 +84,10 @@ I speak, write and understand English expertly as my first language as well as b
         <img width="36" alt="Material UI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" draggable="false">
     </a>
     &nbsp;
+    <a href="https://sass-lang.com/">
+        <img width="36" alt="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" draggable="false">
+    </a>
+    &nbsp;
     <a href="https://www.npmjs.com/">
         <img width="36" alt="NPM" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" draggable="false">
     </a>
