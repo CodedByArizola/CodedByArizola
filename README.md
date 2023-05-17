@@ -20,13 +20,13 @@ I speak, write and understand English expertly as my first language as well as b
     <a href="https://twitter.com/ghostdaghost">
         <img width="36" height="36" alt="Twitter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" draggable="false">     </a>
     &nbsp;
-    <a href="https://www.instagram.com/alex.arizola/">
+<!--     <a href="https://www.instagram.com/alex.arizola/">
         <img width="36" height="36" alt="Instagram" src="https://i.imgur.com/oduCKbs.png" draggable="false">
     </a>
     &nbsp;
     <a href="https://www.linkedin.com/in/alexander-arizola-59a644242/">
         <img width="36" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" draggable="false">
-    </a>
+    </a> -->
     &nbsp;
     <a href="https://gitlab.com/GhostDaGhost">
         <img width="36" alt="GitLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" draggable="false">
