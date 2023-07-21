@@ -31,16 +31,8 @@ I speak, write and understand English expertly as my first language as well as b
 </p>
 
 #
-### 🛠️ Familiar Languages & Tools:
+### 🛠️ Familiar Programming Languages:
 <p align="center">
-    <a href="https://code.visualstudio.com/" rel="noopener noreferrer" target="_blank">
-        <img width="36" alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" draggable="false">
-    </a>
-    &nbsp;
-    <a href="https://atom.io/" rel="noopener noreferrer" target="_blank">
-        <img width="36" alt="Atom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" draggable="false">
-    </a>
-    &nbsp;
     <a href="https://lua.org/" rel="noopener noreferrer" target="_blank">
         <img width="36" alt="LUA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" draggable="false">
     </a>
@@ -69,10 +61,6 @@ I speak, write and understand English expertly as my first language as well as b
         <img width="36" alt="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" draggable="false">
     </a>
     &nbsp;
-    <a href="https://jquery.com/" rel="noopener noreferrer" target="_blank">
-        <img width="36" alt="jQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" draggable="false">
-    </a>
-    &nbsp;
     <a href="https://www.mysql.com/" rel="noopener noreferrer" target="_blank">
         <img width="36" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" draggable="false">
     </a>
@@ -81,16 +69,32 @@ I speak, write and understand English expertly as my first language as well as b
         <img width="36" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" draggable="false">
     </a>
     &nbsp;
-    <a href="https://mui.com/" rel="noopener noreferrer" target="_blank">
-        <img width="36" alt="Material UI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" draggable="false">
-    </a>
-    &nbsp;
     <a href="https://sass-lang.com/" rel="noopener noreferrer" target="_blank">
         <img width="36" alt="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" draggable="false">
     </a>
     &nbsp;
     <a href="https://lesscss.org/" rel="noopener noreferrer" target="_blank">
         <img width="36" alt="Less" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" draggable="false">
+    </a>
+</p>
+
+#
+### 🛠️ Familiar Tools & Frameworks:
+<p align="center">
+    <a href="https://code.visualstudio.com/" rel="noopener noreferrer" target="_blank">
+        <img width="36" alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" draggable="false">
+    </a>
+    &nbsp;
+    <a href="https://atom.io/" rel="noopener noreferrer" target="_blank">
+        <img width="36" alt="Atom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" draggable="false">
+    </a>
+    &nbsp;
+    <a href="https://jquery.com/" rel="noopener noreferrer" target="_blank">
+        <img width="36" alt="jQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" draggable="false">
+    </a>
+    &nbsp;
+    <a href="https://mui.com/" rel="noopener noreferrer" target="_blank">
+        <img width="36" alt="Material UI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" draggable="false">
     </a>
     &nbsp;
     <a href="https://www.npmjs.com/" rel="noopener noreferrer" target="_blank">
