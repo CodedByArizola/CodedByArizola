@@ -89,6 +89,10 @@ I speak, write and understand English expertly as my first language as well as b
         <img width="36" alt="NPM" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" draggable="false">
     </a>
     &nbsp;
+    <a href="https://vitejs.dev/" rel="noopener noreferrer" target="_blank">
+        <img width="36" alt="Vite" src="assets/vite.png" draggable="false">
+    </a>
+    &nbsp;
     <a href="https://daringfireball.net/projects/markdown/" rel="noopener noreferrer" target="_blank">
         <img width="36" alt="Markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" draggable="false">
     </a>
@@ -106,11 +110,11 @@ I speak, write and understand English expertly as my first language as well as b
     </a>
     &nbsp;
     <a href="https://netlify.com/" rel="noopener noreferrer" target="_blank">
-        <img height="36" width="36" alt="Netlify" src="https://i.imgur.com/rYzMkk8.png" draggable="false">
+        <img height="36" width="36" alt="Netlify" src="assets/netlify.png" draggable="false">
     </a>
     &nbsp;
     <a href="https://www.zmodeler3.com/" rel="noopener noreferrer" target="_blank">
-        <img height="36" width="36" alt="zModeler 3" src="https://i.imgur.com/lqySBYp.png" draggable="false">
+        <img height="36" width="36" alt="zModeler 3" src="assets/zmodeler3.png" draggable="false">
     </a>
 </p>
 
