@@ -61,6 +61,10 @@ I speak, write and understand English expertly as my first language as well as b
         <img width="36" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" draggable="false">
     </a>
     &nbsp;
+    <a href="https://vuejs.org/" rel="noopener noreferrer" target="_blank">
+        <img width="36" alt="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" draggable="false">
+    </a>
+    &nbsp;
     <a href="https://jquery.com/" rel="noopener noreferrer" target="_blank">
         <img width="36" alt="jQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" draggable="false">
     </a>
