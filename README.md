@@ -24,6 +24,10 @@ I speak, write and understand English expertly as my first language as well as b
     <a href="https://gitlab.com/GhostDaGhost" rel="noopener noreferrer" target="_blank">
         <img width="36" alt="GitLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" draggable="false">
     </a>
+    &nbsp;
+    <a href="https://codepen.io/GhostDaGhost" rel="noopener noreferrer" target="_blank">
+        <img width="36" alt="CodePen" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" draggable="false">
+    </a>
 </p>
 
 #
