@@ -138,6 +138,12 @@ I've been involved in the creation and maintaing of various custom frameworks in
 * New Dawn Gaming (2020 - 2020)
 * <a href='https://www.productionrp.net/' rel="noopener noreferrer" target="_blank">ProductionRP</a> (2021 - Current)
 
+I've also been creating frontend projects! Check them out here:
+* <a href="https://classy-choux-2958bf.netlify.app/" rel="noopener noreferrer" target="_blank">Currency Converter</a>
+* <a href="https://transcendent-palmier-9cc6ea.netlify.app/" rel="noopener noreferrer" target="_blank">URL Shortener</a>
+* <a href="https://sparkly-swan-b4f0e8.netlify.app/" rel="noopener noreferrer" target="_blank">Contact Form</a>
+* <a href="https://dainty-tapioca-dbc275.netlify.app/" rel="noopener noreferrer" target="_blank">Weather App</a>
+
 #
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats" rel="noopener noreferrer" target="_blank">
