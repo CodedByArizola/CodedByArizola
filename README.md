@@ -1,5 +1,5 @@
 ### 👋 Hello World
-I'm Alex! A guy just living in a world where technology constantly evolves. I am a full stack developer with experience in various programming languages. I currently own and actively develop on <a href='https://www.productionrp.net/' rel="noopener noreferrer" target="_blank">ProductionRP</a>, a serious roleplay server on <a href="https://fivem.net" rel="noopener noreferrer" target="_blank">FiveM</a>.
+I'm Alex! A guy just living in a world where technology constantly evolves. I am a full stack developer with experience in various programming languages. I currently own and actively develop on <a href='https://productionrp.net/' rel="noopener noreferrer" target="_blank">ProductionRP</a>, a serious roleplay server on <a href="https://fivem.net" rel="noopener noreferrer" target="_blank">FiveM</a>.
 
 I hold experience with issue tracking and task management. I've implemented task tracking processes using tools like <a href='https://trello.com/' rel="noopener noreferrer" target="_blank">Trello</a> and <a href='https://github.com/' rel="noopener noreferrer" target="_blank">GitHub</a> / <a href='https://gitlab.com/' rel="noopener noreferrer" target="_blank">GitLab</a> issue tracking. Keeping track of issues and ensuring that the correct department or developer is assigned to the relevant issues.
 
@@ -41,19 +41,19 @@ I speak, write and understand English expertly as my first language as well as b
         <img width="36" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" draggable="false">
     </a>
     &nbsp;
-    <a href="https://www.css3.com/" rel="noopener noreferrer" target="_blank">
+    <a href="https://css3.com/" rel="noopener noreferrer" target="_blank">
         <img width="36" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" draggable="false">
     </a>
     &nbsp;
-    <a href="https://www.javascript.com/" rel="noopener noreferrer" target="_blank">
+    <a href="https://javascript.com/" rel="noopener noreferrer" target="_blank">
         <img width="36" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" draggable="false">
     </a>
     &nbsp;
-    <a href="https://www.typescriptlang.org/" rel="noopener noreferrer" target="_blank">
+    <a href="https://typescriptlang.org/" rel="noopener noreferrer" target="_blank">
         <img width="36" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" draggable="false">
     </a>
     &nbsp;
-    <a href="https://www.reactjs.org/" rel="noopener noreferrer" target="_blank">
+    <a href="https://reactjs.org/" rel="noopener noreferrer" target="_blank">
         <img width="36" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" draggable="false">
     </a>
     &nbsp;
@@ -61,11 +61,11 @@ I speak, write and understand English expertly as my first language as well as b
         <img width="36" alt="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" draggable="false">
     </a>
     &nbsp;
-    <a href="https://www.mysql.com/" rel="noopener noreferrer" target="_blank">
+    <a href="https://mysql.com/" rel="noopener noreferrer" target="_blank">
         <img width="36" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" draggable="false">
     </a>
     &nbsp;
-    <a href="https://www.php.net/" rel="noopener noreferrer" target="_blank">
+    <a href="https://php.net/" rel="noopener noreferrer" target="_blank">
         <img width="36" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" draggable="false">
     </a>
     &nbsp;
@@ -79,7 +79,7 @@ I speak, write and understand English expertly as my first language as well as b
 </p>
 
 #
-### 🛠️ Familiar Tools & Frameworks:
+### 🛠️ Familiar Libraries, Tools & Frameworks:
 <p align="center">
     <a href="https://code.visualstudio.com/" rel="noopener noreferrer" target="_blank">
         <img width="36" alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" draggable="false">
@@ -93,11 +93,19 @@ I speak, write and understand English expertly as my first language as well as b
         <img width="36" alt="jQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" draggable="false">
     </a>
     &nbsp;
+    <a href="https://preactjs.org/" rel="noopener noreferrer" target="_blank">
+        <img width="36" alt="Preact" src="./assets/preact.png" draggable="false">
+    </a>
+    &nbsp;
     <a href="https://mui.com/" rel="noopener noreferrer" target="_blank">
         <img width="36" alt="Material UI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" draggable="false">
     </a>
     &nbsp;
-    <a href="https://www.npmjs.com/" rel="noopener noreferrer" target="_blank">
+    <a href="https://mantine.dev/" rel="noopener noreferrer" target="_blank">
+        <img width="36" alt="Mantine" src="./assets/mantine.png" draggable="false">
+    </a>
+    &nbsp;
+    <a href="https://npmjs.com/" rel="noopener noreferrer" target="_blank">
         <img width="36" alt="NPM" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" draggable="false">
     </a>
     &nbsp;
@@ -109,11 +117,11 @@ I speak, write and understand English expertly as my first language as well as b
         <img width="36" alt="Markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" draggable="false">
     </a>
     &nbsp;
-    <a href="https://www.github.com/" rel="noopener noreferrer" target="_blank">
+    <a href="https://github.com/" rel="noopener noreferrer" target="_blank">
         <img width="36" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" draggable="false">
     </a>
     &nbsp;
-    <a href="https://www.gitlab.com/" rel="noopener noreferrer" target="_blank">
+    <a href="https://gitlab.com/" rel="noopener noreferrer" target="_blank">
         <img width="36" alt="GitLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" draggable="false">
     </a>
     &nbsp;
@@ -125,18 +133,18 @@ I speak, write and understand English expertly as my first language as well as b
         <img height="36" width="36" alt="Netlify" src="assets/netlify.png" draggable="false">
     </a>
     &nbsp;
-    <a href="https://www.zmodeler3.com/" rel="noopener noreferrer" target="_blank">
+    <a href="https://zmodeler3.com/" rel="noopener noreferrer" target="_blank">
         <img height="36" width="36" alt="zModeler 3" src="assets/zmodeler3.png" draggable="false">
     </a>
 </p>
 
 #
 ### 🖥️ Projects:
-I've been involved in the creation and maintaing of various custom frameworks in roleplay servers most commonly written in <a href="https://lua.org/" rel="noopener noreferrer" target="_blank">Lua</a> on a modification off of <a href="https://www.rockstargames.com/gta-v" rel="noopener noreferrer" target="_blank">Grand Theft Auto V</a> named <a href="https://fivem.net" rel="noopener noreferrer" target="_blank">FiveM</a>.
+I've been involved in the creation and maintaing of various custom frameworks in roleplay servers most commonly written in <a href="https://lua.org/" rel="noopener noreferrer" target="_blank">Lua</a> on a modification off of <a href="https://rockstargames.com/gta-v" rel="noopener noreferrer" target="_blank">Grand Theft Auto V</a> named <a href="https://fivem.net" rel="noopener noreferrer" target="_blank">FiveM</a>.
 
 * State of Emergency RP (2019 - 2021)
 * New Dawn Gaming (2020 - 2020)
-* <a href='https://www.productionrp.net/' rel="noopener noreferrer" target="_blank">ProductionRP</a> (2021 - Current)
+* <a href='https://productionrp.net/' rel="noopener noreferrer" target="_blank">ProductionRP</a> (2021 - Current)
 
 I've also been creating frontend projects! Check them out here:
 * <a href="https://classy-choux-2958bf.netlify.app/" rel="noopener noreferrer" target="_blank">Currency Converter</a>
