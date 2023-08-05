@@ -153,6 +153,7 @@ I've also been creating frontend projects! Check them out here:
 * <a href="https://dainty-tapioca-dbc275.netlify.app/" rel="noopener noreferrer" target="_blank">Weather App</a>
 * <a href="https://zippy-cat-24ae8d.netlify.app/" rel="noopener noreferrer" target="_blank">Movie Info App</a>
 * <a href="https://sparkly-kelpie-d89b5d.netlify.app/" rel="noopener noreferrer" target="_blank">Password Generator</a>
+* <a href="https://clever-wisp-aa80d7.netlify.app/" rel="noopener noreferrer" target="_blank">GitHub User Lookup</a>
 
 #
 <p align="center">
