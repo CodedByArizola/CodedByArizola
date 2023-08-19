@@ -53,10 +53,6 @@ I speak, write and understand English expertly as my first language as well as b
         <img width="36" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" draggable="false">
     </a>
     &nbsp;
-    <a href="https://reactjs.org/" rel="noopener noreferrer" target="_blank">
-        <img width="36" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" draggable="false">
-    </a>
-    &nbsp;
     <a href="https://vuejs.org/" rel="noopener noreferrer" target="_blank">
         <img width="36" alt="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" draggable="false">
     </a>
@@ -91,6 +87,10 @@ I speak, write and understand English expertly as my first language as well as b
     &nbsp;
     <a href="https://jquery.com/" rel="noopener noreferrer" target="_blank">
         <img width="36" alt="jQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" draggable="false">
+    </a>
+    &nbsp;
+    <a href="https://reactjs.org/" rel="noopener noreferrer" target="_blank">
+        <img width="36" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" draggable="false">
     </a>
     &nbsp;
     <a href="https://preactjs.org/" rel="noopener noreferrer" target="_blank">
@@ -132,10 +132,10 @@ I speak, write and understand English expertly as my first language as well as b
     <a href="https://netlify.com/" rel="noopener noreferrer" target="_blank">
         <img height="36" width="36" alt="Netlify" src="assets/netlify.png" draggable="false">
     </a>
-    &nbsp;
+    <!-- &nbsp;
     <a href="https://zmodeler3.com/" rel="noopener noreferrer" target="_blank">
         <img height="36" width="36" alt="zModeler 3" src="assets/zmodeler3.png" draggable="false">
-    </a>
+    </a> -->
 </p>
 
 #
