@@ -80,10 +80,10 @@ I speak, write and understand English expertly as my first language as well as b
     <a href="https://code.visualstudio.com/" rel="noopener noreferrer" target="_blank">
         <img width="36" alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" draggable="false">
     </a>
-    &nbsp;
+    <!-- &nbsp;
     <a href="https://atom.io/" rel="noopener noreferrer" target="_blank">
         <img width="36" alt="Atom" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" draggable="false">
-    </a>
+    </a> -->
     &nbsp;
     <a href="https://jquery.com/" rel="noopener noreferrer" target="_blank">
         <img width="36" alt="jQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" draggable="false">
