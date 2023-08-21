@@ -154,6 +154,8 @@ I've also been creating frontend projects! Check them out here:
 * <a href="https://zippy-cat-24ae8d.netlify.app/" rel="noopener noreferrer" target="_blank">Movie Info App</a>
 * <a href="https://sparkly-kelpie-d89b5d.netlify.app/" rel="noopener noreferrer" target="_blank">Password Generator</a>
 * <a href="https://clever-wisp-aa80d7.netlify.app/" rel="noopener noreferrer" target="_blank">GitHub User Lookup</a>
+* <a href="https://aa-flipacoin.netlify.app/" rel="noopener noreferrer" target="_blank">Coin Flipper</a>
+* <a href="https://aa-qrcodegenerator.netlify.app/" rel="noopener noreferrer" target="_blank">QR Code Generator</a>
 
 #
 <p align="center">
