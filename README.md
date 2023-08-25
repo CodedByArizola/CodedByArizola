@@ -34,7 +34,7 @@ I speak, write and understand English expertly as my first language as well as b
 ### 🛠️ Familiar Programming Languages:
 <p align="center">
     <a href="https://lua.org/" rel="noopener noreferrer" target="_blank">
-        <img width="36" alt="LUA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" draggable="false">
+        <img width="36" alt="LUA" src="./assets/lua.png" draggable="false">
     </a>
     &nbsp;
     <a href="https://html.com/" rel="noopener noreferrer" target="_blank">
