@@ -163,6 +163,7 @@ I've also been creating frontend projects! Check them out here:
 * <a href="https://clever-wisp-aa80d7.netlify.app/" rel="noopener noreferrer" target="_blank">GitHub User Lookup</a>
 * <a href="https://aa-flipacoin.netlify.app/" rel="noopener noreferrer" target="_blank">Coin Flipper</a>
 * <a href="https://aa-qrcodegenerator.netlify.app/" rel="noopener noreferrer" target="_blank">QR Code Generator</a>
+* <a href="https://aa-ai-image-generator.netlify.app/" rel="noopener noreferrer" target="_blank">AI Image Generator</a>
 
 #
 <p align="center">
