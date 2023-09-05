@@ -14,6 +14,8 @@ I speak, write and understand English expertly as my first language as well as b
 * 🧠 I'm currently learning <a href='https://vuejs.org/' rel="noopener noreferrer" target="_blank">Vue.js</a>, <a href='https://python.org/' rel="noopener noreferrer" target="_blank">Python</a> and <a href='https://reactjs.org/' rel="noopener noreferrer" target="_blank">React.js</a>
 * 📧 [Email me if you need to contact me](mailto:ghostdaghostt@gmail.com)
 
+<h3>I am currently seeking an employment opportunity or internship as a front-end developer to apply my skills and contribute to a growing and strong team.</h3>
+
 #
 ### 🌐 Find me on:
 <p align="center">
