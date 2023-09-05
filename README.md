@@ -138,6 +138,10 @@ I speak, write and understand English expertly as my first language as well as b
     <a href="https://netlify.com/" rel="noopener noreferrer" target="_blank">
         <img height="36" width="36" alt="Netlify" src="assets/netlify.png" draggable="false">
     </a>
+    &nbsp;
+    <a href="https://tailwindcss.com/" rel="noopener noreferrer" target="_blank">
+        <img height="36" width="36" alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" draggable="false">
+    </a>
     <!-- &nbsp;
     <a href="https://zmodeler3.com/" rel="noopener noreferrer" target="_blank">
         <img height="36" width="36" alt="zModeler 3" src="assets/zmodeler3.png" draggable="false">
