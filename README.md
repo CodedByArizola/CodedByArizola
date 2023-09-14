@@ -160,6 +160,8 @@ I've also been creating frontend projects! Check them out here:
 * <a href="https://alexarizola.dev/" rel="noopener noreferrer" target="_blank">Personal Portfolio v3</a>
 * <a href="https://aa-portfolio-v2.netlify.app/" rel="noopener noreferrer" target="_blank">Personal Portfolio v2</a>
 * <a href="https://aa-portfolio-v1.netlify.app/" rel="noopener noreferrer" target="_blank">Personal Portfolio v1</a>
+* <a href="https://alexarizola.info/" rel="noopener noreferrer" target="_blank">Link Tree v2</a>
+* <a href="https://aa-linktree-v1.netlify.app/" rel="noopener noreferrer" target="_blank">Link Tree v1</a>
 * <a href="https://classy-choux-2958bf.netlify.app/" rel="noopener noreferrer" target="_blank">Currency Converter</a>
 * <a href="https://transcendent-palmier-9cc6ea.netlify.app/" rel="noopener noreferrer" target="_blank">URL Shortener</a>
 * <a href="https://sparkly-swan-b4f0e8.netlify.app/" rel="noopener noreferrer" target="_blank">Contact Form</a>
