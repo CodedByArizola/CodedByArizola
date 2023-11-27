@@ -1,5 +1,5 @@
 ### 👋 Hello World
-I'm Alex! A guy just living in a world where technology constantly evolves. I am a full stack developer with experience in various programming languages. I currently own and actively develop on <a href='https://productionrp.net/' rel="noopener noreferrer" target="_blank">ProductionRP</a>, a serious roleplay server on <a href="https://fivem.net" rel="noopener noreferrer" target="_blank">FiveM</a>.
+I'm Alex! A guy just living in a world where technology constantly evolves. I am a full stack developer with experience in various programming languages.
 
 I hold experience with issue tracking and task management. I've implemented task tracking processes using tools like <a href='https://trello.com/' rel="noopener noreferrer" target="_blank">Trello</a> and <a href='https://github.com/' rel="noopener noreferrer" target="_blank">GitHub</a> / <a href='https://gitlab.com/' rel="noopener noreferrer" target="_blank">GitLab</a> issue tracking. Keeping track of issues and ensuring that the correct department or developer is assigned to the relevant issues.
 
