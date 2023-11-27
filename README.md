@@ -154,7 +154,7 @@ I've been involved in the creation and maintaing of various custom frameworks in
 
 * <a href='https://github.com/GhostDaGhost/soe-2.0' rel="noopener noreferrer" target="_blank">State of Emergency RP</a> (2019 - 2021)
 * New Dawn Gaming (2020 - 2020)
-* <a href='https://productionrp.net/' rel="noopener noreferrer" target="_blank">ProductionRP</a> (2021 - Current)
+* <a href='https://productionrp.org/' rel="noopener noreferrer" target="_blank">ProductionRP</a> (2021 - Current)
 
 I've also been creating frontend projects! Check them out here:
 * <a href="https://alexarizola.dev/" rel="noopener noreferrer" target="_blank">Personal Portfolio v3</a>
@@ -173,7 +173,7 @@ I've also been creating frontend projects! Check them out here:
 * <a href="https://aa-qrcodegenerator.netlify.app/" rel="noopener noreferrer" target="_blank">QR Code Generator</a>
 * <a href="https://aa-ai-image-generator.netlify.app/" rel="noopener noreferrer" target="_blank">AI Image Generator</a>
 * <a href="https://aa-rock-paper-scissors.netlify.app/" rel="noopener noreferrer" target="_blank">Rock Paper Scissors</a>
-* <a href="https://doj.productionrp.net/" rel="noopener noreferrer" target="_blank">DOJ Simulated Web Tool</a>
+* <a href="https://doj.productionrp.org/" rel="noopener noreferrer" target="_blank">DOJ Simulated Web Tool</a>
 
 #
 <p align="center">
