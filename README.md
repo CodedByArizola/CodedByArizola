@@ -28,7 +28,7 @@ I speak, write and understand English expertly as my first language as well as b
     </a>
     &nbsp;
     <a href="https://codepen.io/GhostDaGhost" rel="noopener noreferrer" target="_blank">
-        <img width="36" alt="CodePen" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" draggable="false">
+        <img width="36" alt="CodePen" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" draggable="false">
     </a>
 </p>
 
@@ -140,7 +140,7 @@ I speak, write and understand English expertly as my first language as well as b
     </a>
     &nbsp;
     <a href="https://tailwindcss.com/" rel="noopener noreferrer" target="_blank">
-        <img height="36" width="36" alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" draggable="false">
+        <img height="36" width="36" alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" draggable="false">
     </a>
     <!-- &nbsp;
     <a href="https://zmodeler3.com/" rel="noopener noreferrer" target="_blank">
