@@ -38,10 +38,10 @@ I speak, write and understand English expertly as my first language as well as b
     <a href="https://lua.org/" rel="noopener noreferrer" target="_blank">
         <img width="36" alt="LUA" src="./assets/lua.png" draggable="false">
     </a>
-    &nbsp;
+    <!--&nbsp;
     <a href="https://python.org/" rel="noopener noreferrer" target="_blank">
         <img width="36" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" draggable="false">
-    </a>
+    </a>-->
     &nbsp;
     <a href="https://html.com/" rel="noopener noreferrer" target="_blank">
         <img width="36" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" draggable="false">
@@ -58,10 +58,10 @@ I speak, write and understand English expertly as my first language as well as b
     <a href="https://typescriptlang.org/" rel="noopener noreferrer" target="_blank">
         <img width="36" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" draggable="false">
     </a>
-    &nbsp;
+    <!--&nbsp;
     <a href="https://vuejs.org/" rel="noopener noreferrer" target="_blank">
         <img width="36" alt="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" draggable="false">
-    </a>
+    </a>-->
     &nbsp;
     <a href="https://mysql.com/" rel="noopener noreferrer" target="_blank">
         <img width="36" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" draggable="false">
@@ -106,10 +106,10 @@ I speak, write and understand English expertly as my first language as well as b
     <a href="https://mui.com/" rel="noopener noreferrer" target="_blank">
         <img width="36" alt="Material UI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" draggable="false">
     </a>
-    &nbsp;
+    <!--&nbsp;
     <a href="https://mantine.dev/" rel="noopener noreferrer" target="_blank">
         <img width="36" alt="Mantine" src="./assets/mantine.png" draggable="false">
-    </a>
+    </a>-->
     &nbsp;
     <a href="https://npmjs.com/" rel="noopener noreferrer" target="_blank">
         <img width="36" alt="NPM" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" draggable="false">
