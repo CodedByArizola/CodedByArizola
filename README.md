@@ -19,10 +19,6 @@ I speak, write and understand English expertly as my first language as well as b
 #
 ### 🌐 Find me on:
 <p align="center">
-    <a href="https://twitter.com/ghostdaghost" rel="noopener noreferrer" target="_blank">
-        <img width="36" height="36" alt="Twitter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" draggable="false">
-    </a>
-    &nbsp;
     <a href="https://gitlab.com/GhostDaGhost" rel="noopener noreferrer" target="_blank">
         <img width="36" alt="GitLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" draggable="false">
     </a>
