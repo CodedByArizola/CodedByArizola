@@ -146,7 +146,7 @@ I speak, write and understand English expertly as my first language as well as b
 
 #
 ### 🖥️ Projects:
-I've been involved in the creation and maintaing of various custom frameworks in roleplay servers most commonly written in <a href="https://lua.org/" rel="noopener noreferrer" target="_blank">Lua</a> on a modification off of <a href="https://rockstargames.com/gta-v" rel="noopener noreferrer" target="_blank">Grand Theft Auto V</a> named <a href="https://fivem.net" rel="noopener noreferrer" target="_blank">FiveM</a>.
+I've been involved in the creation and maintaining of various custom frameworks in roleplay servers most commonly written in <a href="https://lua.org/" rel="noopener noreferrer" target="_blank">Lua</a> on a modification off of <a href="https://rockstargames.com/gta-v" rel="noopener noreferrer" target="_blank">Grand Theft Auto V</a> named <a href="https://fivem.net" rel="noopener noreferrer" target="_blank">FiveM</a>.
 
 * <a href='https://github.com/GhostDaGhost/soe-2.0' rel="noopener noreferrer" target="_blank">State of Emergency RP</a> (2019 - 2021)
 * New Dawn Gaming (2020 - 2020)
