@@ -16,7 +16,7 @@ I speak, write and understand English expertly as my first language as well as b
 
 <h3>I am currently seeking an employment opportunity or internship as a front-end developer to apply my skills and contribute to a growing and strong team.</h3>
 
-#
+<!--#
 ### 🌐 Find me on:
 <p align="center">
     <a href="https://gitlab.com/GhostDaGhost" rel="noopener noreferrer" target="_blank">
@@ -26,7 +26,7 @@ I speak, write and understand English expertly as my first language as well as b
     <a href="https://codepen.io/GhostDaGhost" rel="noopener noreferrer" target="_blank">
         <img width="36" alt="CodePen" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" draggable="false">
     </a>
-</p>
+</p>-->
 
 #
 ### 🛠️ Familiar Programming Languages:
