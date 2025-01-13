@@ -1,5 +1,5 @@
 ### 👋 Hello World
-I'm Alex! A guy just living in a world where technology constantly evolves. I am a software engineer with experience in various programming languages.
+I'm Alex! I am a first-generation aspiring software engineer with experience in various programming languages, primarily specializing in front-end development. I am currently pursuing an Associate of Arts and Sciences degree in Computing and Software Development at Lake Washington Institute of Technology.
 
 I hold experience with issue tracking and task management. I've implemented task tracking processes using tools like <a href='https://trello.com/' rel="noopener noreferrer" target="_blank">Trello</a> and <a href='https://github.com/' rel="noopener noreferrer" target="_blank">GitHub</a> / <a href='https://gitlab.com/' rel="noopener noreferrer" target="_blank">GitLab</a> issue tracking. Keeping track of issues and ensuring that the correct department or developer is assigned to the relevant issues.
 
