@@ -12,22 +12,27 @@ I speak, write and understand English expertly as my first language as well as b
 * 🎂 My birthday is August 17
 * 📅 I started my freelance development career on November 2019
 * 🧠 I'm actively learning <a href='https://vuejs.org/' rel="noopener noreferrer" target="_blank">Vue.js</a>, <a href='https://java.com/' rel="noopener noreferrer" target="_blank">Java</a> and <a href='https://reactjs.org/' rel="noopener noreferrer" target="_blank">React.js</a>
-* 📧 [Email me if you need to contact me](mailto:ghostdaghostt@gmail.com)
+* 🧑‍🤝‍🧑 [Connect with me on LinkedIn!](linkedin.alexarizola.dev)
+* 📧 [Emailing me is the best way to get in touch!](mailto:contact@alexarizola.dev)
 * 📃 [Check out my GitHub resume!](https://resume.github.io/?GhostDaGhost)
 
 <h3>I am currently seeking an employment opportunity or internship as a front-end developer to apply my skills and contribute to a growing and strong team.</h3>
 
-<!--#
+#
 ### 🌐 Find me on:
 <p align="center">
+    <a href="https://linkedin.alexarizola.dev/" rel="noopener noreferrer" target="_blank">
+        <img width="36" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" draggable="false">
+    </a>
+    &nbsp;
     <a href="https://gitlab.com/GhostDaGhost" rel="noopener noreferrer" target="_blank">
         <img width="36" alt="GitLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" draggable="false">
     </a>
     &nbsp;
-    <a href="https://codepen.io/GhostDaGhost" rel="noopener noreferrer" target="_blank">
-        <img width="36" alt="CodePen" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" draggable="false">
+    <a href="https://x.alexarizola.dev/" rel="noopener noreferrer" target="_blank">
+        <img width="36" alt="X" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" draggable="false">
     </a>
-</p>-->
+</p>
 
 #
 ### 🛠️ Familiar Programming Languages:
@@ -115,10 +120,10 @@ I speak, write and understand English expertly as my first language as well as b
     <a href="https://vitejs.dev/" rel="noopener noreferrer" target="_blank">
         <img width="36" alt="Vite" src="assets/vite.png" draggable="false">
     </a>
-    &nbsp;
+    <!--&nbsp;
     <a href="https://daringfireball.net/projects/markdown/" rel="noopener noreferrer" target="_blank">
         <img width="36" alt="Markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" draggable="false">
-    </a>
+    </a>-->
     &nbsp;
     <a href="https://github.com/" rel="noopener noreferrer" target="_blank">
         <img width="36" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" draggable="false">
