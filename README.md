@@ -146,7 +146,9 @@ Since November 2019, I have gained hands-on experience in the software engineeri
 
 #
 ### 🖥️ Projects:
-I've been involved in the creation and maintaining of various custom frameworks in roleplay servers most commonly written in <a href="https://lua.org/" rel="noopener noreferrer" target="_blank">Lua</a> on a modification off of <a href="https://rockstargames.com/gta-v" rel="noopener noreferrer" target="_blank">Grand Theft Auto V</a> named <a href="https://fivem.net" rel="noopener noreferrer" target="_blank">FiveM</a>.
+Most of the work I do is privatized and involves a multitude of things such as database development, web design and backend work involving TypeScript, Lua and SQL. I have open sourced a couple of projects (notably frontend) that showcase my work.
+
+I've been involved in the creation and maintaining of various custom frameworks in roleplay servers most commonly written in <a href="https://lua.org/" rel="noopener noreferrer" target="_blank">Lua</a> on a modification off of <a href="https://rockstargames.com/gta-v" rel="noopener noreferrer" target="_blank">Grand Theft Auto V</a> named <a href="https://fivem.net" rel="noopener noreferrer" target="_blank">FiveM</a>. The source code for State of Emergency is available here however it is an incomplete version as the unreleased parts of the framework do not belong to me.
 
 * <a href='https://github.com/GhostDaGhost/soe-2.0' rel="noopener noreferrer" target="_blank">State of Emergency RP</a> (2019 - 2021)
 * New Dawn Gaming (2020 - 2020)
