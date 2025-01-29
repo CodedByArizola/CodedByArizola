@@ -1,13 +1,7 @@
 ### 👋 Hello World
 I'm Alex! I am a first-generation aspiring software engineer with experience in various programming languages, primarily specializing in front-end development. I am currently pursuing an Associate of Arts and Sciences degree in Computing and Software Development at Lake Washington Institute of Technology.
 
-I hold experience with issue tracking and task management. I've implemented task tracking processes using tools like <a href='https://trello.com/' rel="noopener noreferrer" target="_blank">Trello</a> and <a href='https://github.com/' rel="noopener noreferrer" target="_blank">GitHub</a> / <a href='https://gitlab.com/' rel="noopener noreferrer" target="_blank">GitLab</a> issue tracking. Keeping track of issues and ensuring that the correct department or developer is assigned to the relevant issues.
-
-As a developer, I have experience in several languages and tools. For <a href='https://mysql.com/' rel="noopener noreferrer" target="_blank">database systems</a>, I utilize the 3NF approach, indexes, capable of optimizing queries using DBA tools, and able to maintain database security through the use of permissions and access control (like IP whitelisting).
-
-As I used <a href='https://php.net/' rel="noopener noreferrer" target="_blank">PHP</a>, I familiarized myself with object oriented programming, <a href='https://laravel.com/' rel="noopener noreferrer" target="_blank">Laravel framework</a>, writing and using APIs and using the <a href='https://laravel.com/docs/10.x/blade#introduction' rel="noopener noreferrer" target="_blank">Blade templating engine</a> (Laravel front end bits).
-
-I speak, write and understand English expertly as my first language as well as being capable of understanding and speaking Spanish.
+Since November 2019, I have gained hands-on experience in the software engineering field through freelance projects, delivering solutions across various areas and deepening my technical expertise.
 
 * 🎂 My birthday is August 17
 * 📅 I started my freelance development career on November 2019
