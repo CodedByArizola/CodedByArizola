@@ -57,10 +57,10 @@ I've also been creating frontend projects! Check them out here:
 #
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="Alex's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ghostdaghost&count_private=true&show_icons=true&text_color=fff&title_color=fff&border_color=a80505&bg_color=0D1117&icon_color=a80505" draggable="false">
+        <img width="45%" alt="Alex's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ghostdaghost&count_private=true&show_icons=true&text_color=fff&title_color=fff&border_color=a80505&bg_color=0D1117&icon_color=a80505" draggable="false">
     </a>
     <a href="https://git.io/streak-stats">
-        <img alt="Alex's GitHub Streak" src="https://streak-stats.demolab.com/?user=GhostDaGhost&theme=youtube-dark&stroke=a80505&ring=a80505&background=1b1b1c" draggable="false">
+        <img width="45%" alt="Alex's GitHub Streak" src="https://streak-stats.demolab.com/?user=GhostDaGhost&theme=youtube-dark&stroke=a80505&ring=a80505&background=1b1b1c" draggable="false">
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img alt="Alex's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostDaGhost&layout=compact&count_private=true&text_color=fff&title_color=fff&border_color=a80505&bg_color=0D1117" draggable="false">
