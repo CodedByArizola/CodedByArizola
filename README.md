@@ -22,7 +22,7 @@ Since November 2019, I have gained hands-on experience in the software engineeri
 
 #
 ### 🛠️ Familiar Libraries, Tools & Frameworks:
-[![Familiar Libraries, Tools & Frameworks](https://skillicons.dev/icons?i=vscode,mysql,jquery,react,materialui,tailwind,npm,vite,github,gitlab,git,netlify,postman)](https://skillicons.dev)
+[![Familiar Libraries, Tools & Frameworks](https://skillicons.dev/icons?i=vscode,jquery,react,materialui,tailwind,npm,vite,github,gitlab,git,netlify,postman)](https://skillicons.dev)
 
 #
 ### 🖥️ Projects:
@@ -57,10 +57,10 @@ I've also been creating frontend projects! Check them out here:
 #
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img width="45%" alt="Alex's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ghostdaghost&count_private=true&show_icons=true&text_color=fff&title_color=fff&bg_color=0D1117&icon_color=a80505&hide_border=true" draggable="false">
+        <img alt="Alex's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ghostdaghost&count_private=true&show_icons=true&text_color=fff&title_color=fff&bg_color=0D1117&icon_color=a80505&hide_border=true" draggable="false">
     </a>
     <a href="https://git.io/streak-stats">
-        <img width="45%" alt="Alex's GitHub Streak" src="https://streak-stats.demolab.com/?user=GhostDaGhost&stroke=ffffff&background=0D1117&ring=a80505&fire=a80505&currStreakNum=ffffff&currStreakLabel=a80505&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" draggable="false">
+        <img alt="Alex's GitHub Streak" src="https://streak-stats.demolab.com/?user=GhostDaGhost&stroke=ffffff&background=0D1117&ring=a80505&fire=a80505&currStreakNum=ffffff&currStreakLabel=a80505&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" draggable="false">
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img alt="Alex's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostDaGhost&layout=compact&count_private=true&text_color=fff&title_color=fff&bg_color=0D1117&hide_border=true" draggable="false">
