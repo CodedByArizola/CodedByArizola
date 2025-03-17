@@ -22,7 +22,7 @@ Since November 2019, I have gained hands-on experience in the software engineeri
 
 #
 ### 🛠️ Familiar Libraries, Tools & Frameworks:
-[![Familiar Libraries, Tools & Frameworks](https://skillicons.dev/icons?i=vscode,jquery,react,materialui,tailwind,npm,vite,github,gitlab,git,netlify,postman)](https://skillicons.dev)
+[![Familiar Libraries, Tools & Frameworks](https://skillicons.dev/icons?i=vscode,visualstudio,jquery,react,materialui,tailwind,npm,vite,github,gitlab,git,netlify,postman)](https://skillicons.dev)
 
 #
 ### 🖥️ Projects:
