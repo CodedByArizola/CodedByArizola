@@ -5,7 +5,6 @@ Since November 2019, I have gained hands-on experience in the software engineeri
 
 * 🎂 My birthday is August 17
 * 📅 I started my freelance development career on November 2019
-* 🧠 I'm actively learning <a href='https://cplusplus.com/'>C++</a> and <a href='https://python.org/'>Python</a>
 * 🧑‍🤝‍🧑 [Connect with me on LinkedIn!](linkedin.alexarizola.dev)
 * 📧 [Emailing me is the best way to get in touch!](mailto:contact@alexarizola.dev)
 * 📃 [Check out my GitHub resume!](https://resume.github.io/?CodedByArizola)
@@ -51,7 +50,6 @@ I've also been creating frontend projects! Check them out here:
 * <a href="https://aa-qrcodegenerator.netlify.app/">QR Code Generator</a>
 * <a href="https://aa-ai-image-generator.netlify.app/">AI Image Generator</a>
 * <a href="https://aa-rock-paper-scissors.netlify.app/">Rock Paper Scissors</a>
-* <a href="https://doj.productionrp.org/">DOJ Simulated Web Tool</a>
 * <a href="https://prpwebsite-v2.netlify.app/">ProductionRP Website</a>
 
 #
