@@ -50,7 +50,7 @@ I've also been creating frontend projects! Check them out here:
 * <a href="https://aa-qrcodegenerator.netlify.app/">QR Code Generator</a>
 * <a href="https://aa-ai-image-generator.netlify.app/">AI Image Generator</a>
 * <a href="https://aa-rock-paper-scissors.netlify.app/">Rock Paper Scissors</a>
-* <a href="https://prpwebsite-v2.netlify.app/">ProductionRP Website</a>
+* <a href="https://prpwebsite-v2.netlify.app/">Roleplay Community Website</a>
 
 #
 <p align="center">
