@@ -1,5 +1,5 @@
 ### 👋 Hello World
-I'm Alex! I am a first-generation aspiring software engineer with experience in various programming languages, primarily specializing in front-end development. I have an Associate of Applied Science degree in Computing and Software Development at Lake Washington Institute of Technology and have been studying computer science since high school.
+I’m Alex, a first-generation software engineer with experience across multiple programming languages, specializing in front-end development. I hold an Associate of Applied Science in Computing and Software Development from Lake Washington Institute of Technology and have been studying computer science since high school.
 
 Since November 2019, I have gained hands-on experience in the software engineering field through freelance projects, delivering solutions across various areas and deepening my technical expertise.
 
