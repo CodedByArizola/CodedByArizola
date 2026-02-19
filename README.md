@@ -1,10 +1,11 @@
 ### 👋 Hello World
-I’m Alex, a first-generation software engineer with experience across multiple programming languages, specializing in front-end development. I hold an Associate of Applied Science in Computing and Software Development from Lake Washington Institute of Technology and have been studying computer science since high school.
+I’m Alex, a first-generation software engineer experienced in multiple programming languages, with a strong focus on front-end development. I earned my Associate of Applied Science degree in Computing and Software Development from [Lake Washington Institute of Technology](https://lwtech.edu) and have been actively studying computer science since high school.
 
-Since November 2019, I have gained hands-on experience in the software engineering field through freelance projects, delivering solutions across various areas and deepening my technical expertise.
+Alongside my academic journey, I have been building my career since 2019 through freelance projects, delivering tailored solutions across diverse areas while leading teams of both senior and junior developers. Through this work, I’ve developed expertise in fostering collaboration via code reviews, mentoring, and knowledge-sharing, while driving technical excellence in architecture, testing, and implementation. I am continuing to expand my skills through formal studies and plan to advance into a bachelor’s program, combining practical experience with academic growth.
 
 * 🎂 My birthday is August 17
 * 📅 I started my freelance development career on November 2019
+* 🎓 I plan to pursue a bachelor’s degree to continue my education.
 * 🧑‍🤝‍🧑 [Connect with me on LinkedIn!](linkedin.alexarizola.dev)
 * 📧 [Emailing me is the best way to get in touch!](mailto:contact@alexarizola.dev)
 * 📃 [Check out my GitHub resume!](https://resume.github.io/?CodedByArizola)
@@ -25,15 +26,15 @@ Since November 2019, I have gained hands-on experience in the software engineeri
 
 #
 ### 🖥️ Projects:
-Most of the work I do is privatized and involves a multitude of things such as database development, web design and backend work involving TypeScript, Lua and SQL. I have open sourced a couple of projects (notably frontend) that showcase my work.
+Most of my work is done in private projects. I have open-sourced several projects that demonstrate my front-end development experience along with some backend implementation.
 
-I've been involved in the creation and maintaining of various custom frameworks in roleplay servers most commonly written in <a href="https://lua.org/">Lua</a> on a modification off of <a href="https://rockstargames.com/gta-v">Grand Theft Auto V</a> named <a href="https://fivem.net">FiveM</a>. The source code for State of Emergency is available here however it is an incomplete version as the unreleased parts of the framework do not belong to me.
+I've been involved in both the creation and maintenance of various custom frameworks in roleplay servers most commonly written in <a href="https://lua.org/">Lua</a> on a open sourced modification off of <a href="https://rockstargames.com/gta-v">Grand Theft Auto V</a> named <a href="https://fivem.net">FiveM</a>. The source code for State of Emergency is available here. However, it is intentionally incomplete out of respect for the team members who created their own scripts.
 
 * <a href='https://github.com/CodedByArizola/soe-2.0'>State of Emergency RP</a> (2019 - 2021)
-* New Dawn Gaming (2020 - 2020)
-* <a href='https://productionrp.org/'>ProductionRP</a> (2021 - Current)
+* New Dawn Gaming (2020)
+* <a href='https://productionrp.org/'>ProductionRP</a> (2021 - 2025)
 
-I've also been creating frontend projects! Check them out here:
+Websites I've contributed to or created:
 * <a href="https://alexarizola.dev/">Personal Portfolio v3</a>
 * <a href="https://aa-portfolio-v2.netlify.app/">Personal Portfolio v2</a>
 * <a href="https://aa-portfolio-v1.netlify.app/">Personal Portfolio v1</a>
@@ -54,13 +55,13 @@ I've also been creating frontend projects! Check them out here:
 
 #
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <!--<a href="https://github.com/anuraghazra/github-readme-stats">
         <img alt="Alex's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codedbyarizola&count_private=true&show_icons=true&text_color=fff&title_color=fff&bg_color=0D1117&icon_color=a80505&hide_border=true" draggable="false">
-    </a>
+    </a>-->
     <a href="https://git.io/streak-stats">
         <img alt="Alex's GitHub Streak" src="https://streak-stats.demolab.com/?user=CodedByArizola&stroke=ffffff&background=0D1117&ring=a80505&fire=a80505&currStreakNum=ffffff&currStreakLabel=a80505&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" draggable="false">
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <!--<a href="https://github.com/anuraghazra/github-readme-stats">
         <img alt="Alex's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodedByArizola&layout=compact&count_private=true&text_color=fff&title_color=fff&bg_color=0D1117&hide_border=true" draggable="false">
-    </a>
+    </a>-->
 </p>
