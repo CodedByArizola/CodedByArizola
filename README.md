@@ -6,7 +6,6 @@ I’m Alex, a first-generation software engineer experienced in multiple program
 * 🎓 I plan to pursue a bachelor’s degree to continue my education.
 * 🧑‍🤝‍🧑 [Connect with me on LinkedIn!](linkedin.alexarizola.dev)
 * 📧 [Emailing me is the best way to get in touch!](mailto:contact@alexarizola.dev)
-* 📃 [Check out my GitHub resume!](https://resume.github.io/?CodedByArizola)
 
 #
 ### 🌐 Find me on:
