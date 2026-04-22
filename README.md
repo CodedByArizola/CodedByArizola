@@ -1,8 +1,6 @@
 ### 👋 Hello World
 I’m Alex, a first-generation software engineer experienced in multiple programming languages, with a strong focus on front-end development. I earned my Associate of Applied Science degree in Computing and Software Development from [Lake Washington Institute of Technology](https://lwtech.edu) and have been actively studying computer science since high school.
 
-Alongside my academic journey, I have been building my career since 2019 through freelance projects, delivering tailored solutions across diverse areas while leading teams of both senior and junior developers. Through this work, I’ve developed expertise in fostering collaboration via code reviews, mentoring, and knowledge-sharing, while driving technical excellence in architecture, testing, and implementation. I am continuing to expand my skills through formal studies and plan to advance into a bachelor’s program, combining practical experience with academic growth.
-
 * 🎂 My birthday is August 17
 * 📅 I started my freelance development career on November 2019
 * 🎓 I plan to pursue a bachelor’s degree to continue my education.
@@ -31,20 +29,8 @@ Most of my work is done in private projects. I have open-sourced several project
 I've been involved in both the creation and maintenance of various custom frameworks in roleplay servers most commonly written in <a href="https://lua.org/">Lua</a> on a open sourced modification off of <a href="https://rockstargames.com/gta-v">Grand Theft Auto V</a> named <a href="https://fivem.net">FiveM</a>. The source code for State of Emergency is available here. However, it is intentionally incomplete out of respect for the team members who created their own scripts.
 
 * <a href='https://github.com/CodedByArizola/soe-2.0'>State of Emergency RP</a> (2019 - 2021)
-* New Dawn Gaming (2020)
 * <a href='https://productionrp.org/'>ProductionRP</a> (2021 - 2025)
-
-Websites I've contributed to or created:
-* <a href="https://alexarizola.dev/">Personal Portfolio</a>
-* <a href="https://alexarizola.info/">Link Tree</a>
-* <a href="https://classy-choux-2958bf.netlify.app/">Currency Converter</a>
-* <a href="https://dainty-tapioca-dbc275.netlify.app/">Weather App</a>
-* <a href="https://zippy-cat-24ae8d.netlify.app/">Movie Info App</a>
-* <a href="https://sparkly-kelpie-d89b5d.netlify.app/">Password Generator</a>
-* <a href="https://clever-wisp-aa80d7.netlify.app/">GitHub User Lookup</a>
-* <a href="https://aa-qrcodegenerator.netlify.app/">QR Code Generator</a>
-* <a href="https://prpwebsite-v2.netlify.app/">Roleplay Community Website</a>
-
+  
 #
 <p align="center">
     <!--<a href="https://github.com/anuraghazra/github-readme-stats">
