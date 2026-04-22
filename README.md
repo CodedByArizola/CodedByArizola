@@ -35,22 +35,14 @@ I've been involved in both the creation and maintenance of various custom framew
 * <a href='https://productionrp.org/'>ProductionRP</a> (2021 - 2025)
 
 Websites I've contributed to or created:
-* <a href="https://alexarizola.dev/">Personal Portfolio v3</a>
-* <a href="https://aa-portfolio-v2.netlify.app/">Personal Portfolio v2</a>
-* <a href="https://aa-portfolio-v1.netlify.app/">Personal Portfolio v1</a>
-* <a href="https://alexarizola.info/">Link Tree v2</a>
-* <a href="https://aa-linktree-v1.netlify.app/">Link Tree v1</a>
+* <a href="https://alexarizola.dev/">Personal Portfolio</a>
+* <a href="https://alexarizola.info/">Link Tree</a>
 * <a href="https://classy-choux-2958bf.netlify.app/">Currency Converter</a>
-* <a href="https://transcendent-palmier-9cc6ea.netlify.app/">URL Shortener</a>
-* <a href="https://sparkly-swan-b4f0e8.netlify.app/">Contact Form</a>
 * <a href="https://dainty-tapioca-dbc275.netlify.app/">Weather App</a>
 * <a href="https://zippy-cat-24ae8d.netlify.app/">Movie Info App</a>
 * <a href="https://sparkly-kelpie-d89b5d.netlify.app/">Password Generator</a>
 * <a href="https://clever-wisp-aa80d7.netlify.app/">GitHub User Lookup</a>
-* <a href="https://aa-flipacoin.netlify.app/">Coin Flipper</a>
 * <a href="https://aa-qrcodegenerator.netlify.app/">QR Code Generator</a>
-* <a href="https://aa-ai-image-generator.netlify.app/">AI Image Generator</a>
-* <a href="https://aa-rock-paper-scissors.netlify.app/">Rock Paper Scissors</a>
 * <a href="https://prpwebsite-v2.netlify.app/">Roleplay Community Website</a>
 
 #
