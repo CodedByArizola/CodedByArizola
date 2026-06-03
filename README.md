@@ -22,15 +22,6 @@ I’m Alex, a first-generation software engineer experienced in multiple program
 [![Familiar Libraries, Tools & Frameworks](https://skillicons.dev/icons?i=vscode,visualstudio,jquery,react,materialui,tailwind,npm,vite,github,gitlab,git,netlify,postman)](https://skillicons.dev)
 
 #
-### 🖥️ Projects:
-Most of my work is done in private projects. I have open-sourced several projects that demonstrate my front-end development experience along with some backend implementation.
-
-I've been involved in both the creation and maintenance of various custom frameworks in roleplay servers most commonly written in <a href="https://lua.org/">Lua</a> on a open sourced modification off of <a href="https://rockstargames.com/gta-v">Grand Theft Auto V</a> named <a href="https://fivem.net">FiveM</a>. The source code for State of Emergency is available here. However, it is intentionally incomplete out of respect for the team members who created their own scripts.
-
-* <a href='https://github.com/CodedByArizola/soe-2.0'>State of Emergency RP</a> (2019 - 2021)
-* <a href='https://productionrp.org/'>ProductionRP</a> (2021 - 2025)
-  
-#
 <p align="center">
     <!--<a href="https://github.com/anuraghazra/github-readme-stats">
         <img alt="Alex's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codedbyarizola&count_private=true&show_icons=true&text_color=fff&title_color=fff&bg_color=0D1117&icon_color=a80505&hide_border=true" draggable="false">
