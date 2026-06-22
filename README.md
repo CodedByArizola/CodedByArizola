@@ -1,17 +1,8 @@
 ### 👋 Hello World
-I’m Alex, a first-generation software engineer experienced in multiple programming languages, with a strong focus on front-end development. I earned my Associate of Applied Science degree in Computing and Software Development from [Lake Washington Institute of Technology](https://lwtech.edu) and have been actively studying computer science since high school.
+I’m Alex, a first-generation software engineer with multi-language experience and a strong foundation built through freelance work since 2019.
 
-* 🎂 My birthday is August 17
-* 📅 I started my freelance development career on November 2019
-* 🎓 I plan to pursue a bachelor’s degree to continue my education.
 * 🧑‍🤝‍🧑 [Connect with me on LinkedIn!](linkedin.alexarizola.dev)
 * 📧 [Emailing me is the best way to get in touch!](mailto:contact@alexarizola.dev)
-
-#
-### 🌐 Find me on:
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.alexarizola.dev/)
-[![X](https://skillicons.dev/icons?i=twitter)](https://x.alexarizola.dev/)
-[![Dev](https://skillicons.dev/icons?i=devto)](https://dev.to/alex_arizola)
 
 #
 ### 🛠️ Familiar Programming Languages:
@@ -19,7 +10,7 @@ I’m Alex, a first-generation software engineer experienced in multiple program
 
 #
 ### 🛠️ Familiar Libraries, Tools & Frameworks:
-[![Familiar Libraries, Tools & Frameworks](https://skillicons.dev/icons?i=vscode,visualstudio,jquery,react,materialui,tailwind,npm,vite,github,gitlab,git,netlify,postman)](https://skillicons.dev)
+[![Familiar Libraries, Tools & Frameworks](https://skillicons.dev/icons?i=vscode,visualstudio,mysql,mongodb,jquery,react,materialui,tailwind,npm,vite,github,gitlab,git,netlify,postman)](https://skillicons.dev)
 
 #
 <p align="center">
