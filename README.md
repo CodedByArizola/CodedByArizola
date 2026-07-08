@@ -1,5 +1,4 @@
 ### 👋 Hello World
-I’m Alex, a first-generation software engineer with multi-language experience and a strong foundation built through freelance work since 2019.
 
 * 🧑‍🤝‍🧑 [Connect with me on LinkedIn!](linkedin.alexarizola.dev)
 * 📧 [Emailing me is the best way to get in touch!](mailto:contact@alexarizola.dev)
